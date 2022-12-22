@@ -13,3 +13,7 @@ git_class = {
     }
 
 print(git_class)
+
+git_class["git_pull"] = "git pull - pull current updated source code from github to git"
+
+print(git_class)
