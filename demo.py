@@ -14,8 +14,18 @@ git_class = {
 
 print(git_class)
 
+git_second_class = {
+    "connection_string": "how to connect git to github repository",
+    "branch_creation": "creating branch in same repository",
+    "git_pull": "pulling update source code from github",
+    "git_checkout_branchname": "how to change one branch to another branch with cmd (git checkout new branch name)",
+    "github_code_edit": "we can edit code in github with editor",
+
+
+}
+
 git_class["git_pull"] = "git pull - pull current updated source code from github to git"
 
 print(git_class)
 
-print(11+9)
+
